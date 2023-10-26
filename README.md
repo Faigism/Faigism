@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Application**
 
-- 💬 Ask me about **Asp.Net Core, Mvc pattern**
+- 💬 Ask me about **Asp.Net Core, React**
 
 - 📫 How to reach me **faigyi@code.edu.az**
 
