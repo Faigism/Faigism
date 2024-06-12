@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faig Ismayilov</h1>
-<h3 align="center">A passionate Full Stack developer from Azerbaijan</h3>
+<h3 align="center">A passionate Frontend Developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Application**
+- 🔭 I’m currently working on **Frontend**
 
 - 💬 Ask me about **Asp.Net Core, React**
 
-- 📫 How to reach me **faigyi@code.edu.az**
+- 📫 How to reach me **faig.ismcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
